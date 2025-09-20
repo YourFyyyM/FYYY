@@ -59,7 +59,7 @@ body{
 .envelope > .letter {
   position: absolute;
   right: 17%;
-  bottom: 0;
+  bottom: 3px;
   width: 60%;
   height: 57%;
   background: var(--primary);
@@ -222,6 +222,7 @@ body{
     max-width: 300px; /* Batasi lebar untuk HP */
   }
 }
+
 
 
 
