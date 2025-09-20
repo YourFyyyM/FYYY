@@ -61,7 +61,7 @@ body{
   right: 17%;
   bottom: 0;
   width: 60%;
-  height: 59%;
+  height: 57%;
   background: var(--primary);
   background-color: #ffffff;
   text-align: center;
@@ -222,6 +222,7 @@ body{
     max-width: 300px; /* Batasi lebar untuk HP */
   }
 }
+
 
 
 
