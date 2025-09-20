@@ -212,7 +212,7 @@ body{
 }
 @keyframes float {
   0% { transform: scale(1.5) translateY(0); }
-  50% { transform: scale(1.5) translateY(-5px); }
+  50% { transform: scale(1.5) translateY(-2px); }
   100% { transform: scale(1.5) translateY(0); }
 
 }
@@ -222,6 +222,7 @@ body{
     max-width: 300px; /* Batasi lebar untuk HP */
   }
 }
+
 
 
 
