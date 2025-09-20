@@ -53,7 +53,7 @@ body{
   height: 0px;
   border-top: 130px solid transparent;
   border-right: 178px solid var(--envelope-cover);
-  border-bottom: 180px solid var(--envelope-cover);
+  border-bottom: 190px solid var(--envelope-cover);
   border-left: 175px solid var(--envelope-cover);
 }
 .envelope > .letter {
@@ -222,6 +222,7 @@ body{
     max-width: 300px; /* Batasi lebar untuk HP */
   }
 }
+
 
 
 
